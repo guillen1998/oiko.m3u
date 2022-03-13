@@ -3,6 +3,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1190255684639744001/nsiIZ_X-_400x400.jpg" group-title="PARAGUAY", TELEFUTURO HD
 http://200.89.191.165/live/c4eds/TELEFUTURO_C4/SA_SAGEMCOM/TELEFUTURO_C4.m3u8
+#EXTINF:-1 tvg-logo= " group-title="PARAGUAY", CLASICO 
+https://d3kzwqwnq1f7tq.cloudfront.net/out/v1/21ec7610fb8c4438ab96f2ab74010a9a/index_5.m3u8?t=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJhMTAzYjE5MC02MGQwLTExZWItYWZjZi02NzIwOTYyZjk0NjMiLCJuYW1lIjoiZnJldHNvbi45NUBnbWFpbC5jb20iLCJvcyI6IndlYiIsImNvdW50cnkiOiJQWSIsInVzZXJfYWdlbnQiOiJNb3ppbGxhXC81LjAgKExpbnV4OyBBbmRyb2lkIDYuMDsgTmV4dXMgNSBCdWlsZFwvTVJBNThOKSBBcHBsZVdlYktpdFwvNTM3LjM2IChLSFRNTCwgbGlrZSBHZWNrbykgQ2hyb21lXC85OS4wLjQ4NDQuNTEgTW9iaWxlIFNhZmFyaVwvNTM3LjM2IiwiaWF0IjoxNjQ3MTk3MTM1LCJuYmYiOjE2NDcxOTcxMzUsImV4cCI6MTY0NzIxMTUzNX0.p3ZcxwwH8fDG3exoQRHOkjkmrBZQuqGExgpuJk3k7IU
 #EXTINF: -1 tvg-logo = "https://static.wikia.nocookie.net/logopedia/images/6/6c/Snt-en-vivo.png/revision/latest?cb=20161224202322" group-title = "PARAGUAY", SNT HD
 http://200.89.191.165/live/c4eds/SNT_C4/SA_SAGEMCOM/SNT_C4.m3u8
 #EXTINF:-1 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2020/04/Paravisi%C3%B3n-en-vivo-Online-1-218x150.png" group-title="PARAGUAY", PARAVISION HD
