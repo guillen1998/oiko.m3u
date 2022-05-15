@@ -3,8 +3,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1190255684639744001/nsiIZ_X-_400x400.jpg" group-title="PARAGUAY", TELEFUTURO HD
 http://200.89.191.165/live/c4eds/TELEFUTURO_C4/SA_SAGEMCOM/TELEFUTURO_C4.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Logo-tigosports.png" group-title="PARAGUAY", TIGO SPORTS
-http://jumangis.com:2082/live/Hellb78/B7BafUhTX2/28535.ts
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/08/Logo-tigosports.png" group-title="PARAGUAY", TIGO SPORTS ok
+https://mycloudstream.akamaized.net/hls/live/2036107/bqrtdn3w/1652647658832/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Tigo_Sports_logo.svg/1024px-Tigo_Sports_logo.svg.png" group-title="PARAGUAY", TIGO SPORTS +
 http://jumangis.com:2082/live/Hellb78/B7BafUhTX2/28536.ts
 #EXTINF: -1 tvg-logo = "https://static.wikia.nocookie.net/logopedia/images/6/6c/Snt-en-vivo.png/revision/latest?cb=20161224202322" group-title = "PARAGUAY", SNT HD
