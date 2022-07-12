@@ -28,6 +28,8 @@ http://edge3.prepro.cvattv.com.ar/live/vod/ESPN2HD/SA_Live_WebVTT_FTA/ESPN2HD.m3
 https://edge1.prepro.cvattv.com.ar/live/vod/ESPN3/SA_Live_WebVTT_FTA/ESPN3.m3u8
 #EXTINF:-1  group-title="DEPORTES", ESPN PREMIUM HD
 http://200.89.190.163/live/vod/Fox_Sports_Premium/SA_Live_WebVTT_FTA/Fox_Sports_Premium.m3u8
+#EXTINF:-1  group-title="DEPORTES", DEPOR TV
+https://edge1.prepro.cvattv.com.ar/live/vod/DeporTVHD/SA_Live_WebVTT_FTA/DeporTVHD.m3u8
 #EXTINF:-1 tvg-chno="320" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s75423_dark_360w_270h.png" group-title="PELICULAS",STAR CHANNEL
 https://edge3.prepro.cvattv.com.ar/live/vod/FOXHD/SA_Live_WebVTT_FTA/FOXHD.m3u8
 #EXTINF:-1 tvg-logo="https://www.pngkit.com/png/detail/410-4109688_invitados-a-un-amc-tv-png-logo.png" group-title="PELICULAS",AMC
