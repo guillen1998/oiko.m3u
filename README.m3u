@@ -1,7 +1,7 @@
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQN3YzqAYB-no96is0qft2xwhdOgMiTdAZ67A&usqp=CAU" group-title="PARAGUAY", TRECE HD
 https://stream.rpc.com.py/live/trece.m3u8
 #EXTINF:0 tvg-country="PY" tvg-logo="https://i.imgur.com/tBdgllD.png" group-title="PARAGUAY",ABC TV HD 
-https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8?checkedby:iptvcat.net
+https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
 #EXTINF:0 tvg-country="PY" tvg-logo="https://i.imgur.com/cgTD2TW.png" group-title="PARAGUAY",Unicanal
 http://45.55.127.106/live/unicanal.m3u8
 #EXTINF:-1 tvg-logo="" group-title="PARAGUAY", Mi Tv Encarnacion
