@@ -1,3 +1,7 @@
+#EXTINF:-0 tvg-logo = "https://static.wikia.nocookie.net/logopedia/images/6/6c/Snt-en-vivo.png/revision/latest?cb=20161224202322" group-title="PARAGUAY", SNT
+https://d4xunn272arip.cloudfront.net/hls/snt_360.m3u8
+EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/Canal_9_Noticias.jpg" group-title="PARAGUAY", C9N 
+https://d4xunn272arip.cloudfront.net/hls/c9n_360.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQN3YzqAYB-no96is0qft2xwhdOgMiTdAZ67A&usqp=CAU" group-title="PARAGUAY", TRECE HD
 https://stream.rpc.com.py/live/trece.m3u8
 #EXTINF:0 tvg-country="PY" tvg-logo="https://i.imgur.com/tBdgllD.png" group-title="PARAGUAY",ABC TV HD 
