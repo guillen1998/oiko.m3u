@@ -56,6 +56,10 @@ http://edge3.prepro.cvattv.com.ar/live/vod/SpaceHD/SA_Live_WebVTT_FTA/SpaceHD.m3
 http://edge3.prepro.cvattv.com.ar/live/vod/TNTHD/SA_Live_WebVTT_FTA/TNTHD.m3u8
 #EXTINF:-1, group-title="PELICULAS" , CINEMAX
 https://edge3.prepro.cvattv.com.ar/live/live/Cinemax/SA_Live_WebVTT_FTA/Cinemax.m3u8
+#EXTINF:-1, group-title="PELICULAS" , Film_Arts HD
+https://edge3.prepro.cvattv.com.ar/live/live/Film_Arts/SA_Live_WebVTT_FTA/Film_Arts.m3u8
+#EXTINF:-1, group-title="PELICULAS" , Lifetime HD
+https://edge3.prepro.cvattv.com.ar/live/live/Lifetime/SA_Live_WebVTT_FTA/Lifetime.m3u8
 #EXTINF:-1, group-title="PELICULAS" , STUDIO UNIVERSAL
 https://edge3.prepro.cvattv.com.ar/live/live/Studio_Universal/SA_Live_WebVTT_FTA/Studio_Universal.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/1200px-FX_International_logo.svg.png" group-title="PELICULAS",FX HD
@@ -86,6 +90,10 @@ http://edge3.prepro.cvattv.com.ar/live/vod/DiscoveryHD/SA_Live_WebVTT_FTA/Discov
 https://edge3.prepro.cvattv.com.ar/live/vod/TLC/SA_Live_WebVTT_FTA/TLC.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CULTURA",DISCOVERY H&H HD
 https://edge1.prepro.cvattv.com.ar/live/vod/DiscoveryHomeHealthHD/SA_Live_WebVTT_FTA/DiscoveryHomeHealthHD.m3u8
+#EXTINF:-1,group-title="CULTURA" , INVESTIGATION DISCOVERY HD
+https://edge3.prepro.cvattv.com.ar/live/live/ID/SA_Live_WebVTT_FTA/ID.m3u8
+#EXTINF:-1, group-title="CULTURA" , DISCOVERY THEATER HD
+https://edge3.prepro.cvattv.com.ar/live/live/Discovery_Science/SA_Live_WebVTT_FTA/Discovery_Science.m3u8
 #EXTINF:-1 tvg-logo="" group-title="CULTURA",Gourmet
 https://edge1.prepro.cvattv.com.ar/live/vod/Gourmet/SA_Live_WebVTT_FTA/Gourmet.m3u8
 #EXTINF:-1 tvg-logo="" group-title="ARGENTINA",AMERICA 24
