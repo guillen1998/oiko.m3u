@@ -76,9 +76,9 @@ https://edge3.prepro.cvattv.com.ar/live/live/HBO_Plus/SA_Live_WebVTT_FTA/HBO_Plu
 http://edge3.prepro.cvattv.com.ar/live/vod/NatGeoHD/SA_Live_WebVTT_FTA/NatGeoHD.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Bgpm95Y/k-Mnbxb-EN-400x400.png" tvg-group="CULTURA", DISCOVERY TURBO
 https://edge3.prepro.cvattv.com.ar/live/live/DiscoveryTurbo/SA_Live_WebVTT_FTA/DiscoveryTurbo.m3u8
-#EXTINF:-1, group-title="CULTURAL" , ANIMAL PLANET
+#EXTINF:-1, group-title="CULTURA" , ANIMAL PLANET
 https://edge3.prepro.cvattv.com.ar/live/live/AnimalPlanet/SA_Live_WebVTT_FTA/AnimalPlanet.m3u8
-#EXTINF:-1,group-title="CULTURAL" , HISTORY 2
+#EXTINF:-1,group-title="CULTURA" , HISTORY 2
 https://edge3.prepro.cvattv.com.ar/live/live/History_2/SA_Live_WebVTT_FTA/History_2.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/SyyDDQB/discovery.png" tvg-group="CULTURA", DISCOVERY CHANNEL
 http://edge3.prepro.cvattv.com.ar/live/vod/DiscoveryHD/SA_Live_WebVTT_FTA/DiscoveryHD.m3u8
